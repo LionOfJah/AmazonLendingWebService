@@ -1,0 +1,6 @@
+com\icicibank\apimgmt\ExampleAWSConfig.class
+com\icicibank\apimgmt\ExampleLPGConfig.class
+com\icicibank\apimgmt\ServletInitializer.class
+com\icicibank\apimgmt\ExampleSecurityConfig.class
+com\icicibank\apimgmt\AmazonWebServiceApplication.class
+com\icicibank\apimgmt\controller\AmazonLendingController.class
