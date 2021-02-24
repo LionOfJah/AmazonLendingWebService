@@ -1,0 +1,104 @@
+2021-02-24 17:51:37.825  INFO 9484 --- [restartedMain] o.s.boot.SpringApplication               : 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v2.4.3)[0;39m
+
+
+2021-02-24 17:51:37.929  INFO 9484 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : Starting AmazonWebServiceApplication using Java 1.8.0_241 on W10CPZRMF2 with PID 9484 (C:\Users\jitendra_rawat\Documents\ICICI_WORK\AmazonWebService\target\classes started by Jitendra_Rawat in C:\Users\jitendra_rawat\Documents\ICICI_WORK\AmazonWebService)
+2021-02-24 17:51:37.932  INFO 9484 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : No active profile set, falling back to default profiles: default
+2021-02-24 17:51:38.012  INFO 9484 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-02-24 17:51:38.012  INFO 9484 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-02-24 17:51:39.826  INFO 9484 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-02-24 17:51:39.840  INFO 9484 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-24 17:51:39.840  INFO 9484 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-02-24 17:51:40.126  INFO 9484 --- [restartedMain] o.a.c.c.C.[.[.[/AmazonLending]           : Initializing Spring embedded WebApplicationContext
+2021-02-24 17:51:40.127  INFO 9484 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2113 ms
+2021-02-24 17:51:40.651  INFO 9484 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-24 17:51:41.217  INFO 9484 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-02-24 17:51:41.228  INFO 9484 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-02-24 17:51:41.293  INFO 9484 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/AmazonLending'
+2021-02-24 17:51:41.321  INFO 9484 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : Started AmazonWebServiceApplication in 4.056 seconds (JVM running for 6.265)
+2021-02-24 17:55:29.896  INFO 9484 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-24 17:55:30.118  INFO 9484 --- [restartedMain] o.s.boot.SpringApplication               : 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v2.4.3)[0;39m
+
+
+2021-02-24 17:55:30.123  INFO 9484 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : Starting AmazonWebServiceApplication using Java 1.8.0_241 on W10CPZRMF2 with PID 9484 (C:\Users\jitendra_rawat\Documents\ICICI_WORK\AmazonWebService\target\classes started by Jitendra_Rawat in C:\Users\jitendra_rawat\Documents\ICICI_WORK\AmazonWebService)
+2021-02-24 17:55:30.124  INFO 9484 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : No active profile set, falling back to default profiles: default
+2021-02-24 17:55:30.944  INFO 9484 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-02-24 17:55:30.945  INFO 9484 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-24 17:55:30.947  INFO 9484 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-02-24 17:55:31.011  INFO 9484 --- [restartedMain] o.a.c.c.C.[.[.[/AmazonLending]           : Initializing Spring embedded WebApplicationContext
+2021-02-24 17:55:31.011  INFO 9484 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 881 ms
+2021-02-24 17:55:31.204  INFO 9484 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-24 17:55:31.384  INFO 9484 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-02-24 17:55:31.389  INFO 9484 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-02-24 17:55:31.411  INFO 9484 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/AmazonLending'
+2021-02-24 17:55:31.422  INFO 9484 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : Started AmazonWebServiceApplication in 1.393 seconds (JVM running for 236.366)
+2021-02-24 17:55:31.425  INFO 9484 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-02-24 17:55:49.479  INFO 9484 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-02-24 17:55:49.986  INFO 9484 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-24 17:56:01.919  INFO 11036 --- [restartedMain] o.s.boot.SpringApplication               : 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v2.4.3)[0;39m
+
+
+2021-02-24 17:56:02.012  INFO 11036 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : Starting AmazonWebServiceApplication using Java 1.8.0_241 on W10CPZRMF2 with PID 11036 (C:\Users\jitendra_rawat\Documents\ICICI_WORK\AmazonWebService\target\classes started by Jitendra_Rawat in C:\Users\jitendra_rawat\Documents\ICICI_WORK\AmazonWebService)
+2021-02-24 17:56:02.013  INFO 11036 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : No active profile set, falling back to default profiles: default
+2021-02-24 17:56:02.082  INFO 11036 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-02-24 17:56:02.082  INFO 11036 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-02-24 17:56:03.871  INFO 11036 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-02-24 17:56:03.887  INFO 11036 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-24 17:56:03.887  INFO 11036 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-02-24 17:56:04.094  INFO 11036 --- [restartedMain] o.a.c.c.C.[.[.[/AmazonLending]           : Initializing Spring embedded WebApplicationContext
+2021-02-24 17:56:04.094  INFO 11036 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2011 ms
+2021-02-24 17:56:04.545  INFO 11036 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-24 17:56:05.033  INFO 11036 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-02-24 17:56:05.042  INFO 11036 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-02-24 17:56:05.103  INFO 11036 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/AmazonLending'
+2021-02-24 17:56:05.122  INFO 11036 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : Started AmazonWebServiceApplication in 3.728 seconds (JVM running for 5.775)
+2021-02-24 17:57:26.356  INFO 11036 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-02-24 17:57:26.891  INFO 11036 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-24 17:57:41.951  INFO 5528 --- [restartedMain] o.s.boot.SpringApplication               : 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v2.4.3)[0;39m
+
+
+2021-02-24 17:57:42.048  INFO 5528 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : Starting AmazonWebServiceApplication using Java 1.8.0_241 on W10CPZRMF2 with PID 5528 (C:\Users\jitendra_rawat\Documents\ICICI_WORK\AmazonWebService\target\classes started by Jitendra_Rawat in C:\Users\jitendra_rawat\Documents\ICICI_WORK\AmazonWebService)
+2021-02-24 17:57:42.049  INFO 5528 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : No active profile set, falling back to default profiles: default
+2021-02-24 17:57:42.126  INFO 5528 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-02-24 17:57:42.127  INFO 5528 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-02-24 17:57:43.891  INFO 5528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-02-24 17:57:43.907  INFO 5528 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-24 17:57:43.907  INFO 5528 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-02-24 17:57:44.114  INFO 5528 --- [restartedMain] o.a.c.c.C.[.[.[/AmazonLending]           : Initializing Spring embedded WebApplicationContext
+2021-02-24 17:57:44.114  INFO 5528 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1986 ms
+2021-02-24 17:57:44.563  INFO 5528 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-24 17:57:45.049  INFO 5528 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-02-24 17:57:45.059  INFO 5528 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-02-24 17:57:45.124  INFO 5528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/AmazonLending'
+2021-02-24 17:57:45.142  INFO 5528 --- [restartedMain] c.i.apimgmt.AmazonWebServiceApplication  : Started AmazonWebServiceApplication in 3.721 seconds (JVM running for 5.446)
+2021-02-24 17:58:03.950  INFO 5528 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/AmazonLending]           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-24 17:58:03.950  INFO 5528 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-02-24 17:58:03.952  INFO 5528 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-02-24 17:59:05.910  INFO 5528 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
