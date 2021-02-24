@@ -12,7 +12,7 @@ public class ExampleSecurityConfig implements SecurityConfig {
     public SecurityKeyProvider getAmazonPublicKeyProvider() {
         // Note that Amazon Lending strongly encourages the use of secure key storage practices.
         // A file-based provider is included as an example; see com.amazon.lending.security.SecurityKeyProvider
-        return new FileSecurityKeyProvider("/u0/apache-tomcat-8.5.14/amazon/amazon_public.pem");
+        return new FileSecurityKeyProvider("/opt/amazon-lending/amazon_public.pem");
     }
 
     @Override
@@ -24,7 +24,7 @@ public class ExampleSecurityConfig implements SecurityConfig {
     public SecurityKeyProvider getPrivateKeyProvider() {
         // Note that Amazon Lending strongly encourages the use of secure key storage practices.
         // A file-based provider is included as an example; see com.amazon.lending.security.SecurityKeyProvider
-        return new FileSecurityKeyProvider("/u0/apache-tomcat-8.5.14/amazon/icici_private.pem");
+        return new FileSecurityKeyProvider("/opt/amazon-lending/icici_private.pem");
     }
 
     @Override
